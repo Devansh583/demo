@@ -4,3 +4,6 @@ git add <file_name>- adding file to staging area
 git commit -m "message"- committing the file after adding it to staging area
 git log- will show commit history
 git push- to push the code on github
+Note: every time you modify a file locally on system. and then you want to push it to github. Then, you need to again run
+add, commit and then push command.
+git difftool HEAD- to see the changes wrt previous version of file.
