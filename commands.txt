@@ -1,0 +1,4 @@
+git status- tells the file name present in computer repo
+- also shows the files which are not in staging area
+git add <file_name>- adding file to staging area
+git commit -m "message"- committing the file after adding it to staging area
