@@ -9,5 +9,5 @@ Note: every time you modify a file locally on system. and then you want to push 
 add, commit and then push command.
 git difftool HEAD- to see the changes wrt previous version of file.(this command is used to see the changes
 before push operation.)
-git restore <file_name>- to undo the changes
+git restore <file_name>- to undo uncommitted changes
 - instead of file_name we can just put . to undo changes from all files
