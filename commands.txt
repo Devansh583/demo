@@ -1,3 +1,4 @@
+git clone <url from github of the repo to be cloned>
 git status- tells the file name present in computer repo
 - also shows the files which are not in staging area
 git add <file_name>- adding file to staging area
@@ -6,4 +7,5 @@ git log- will show commit history
 git push- to push the code on github
 Note: every time you modify a file locally on system. and then you want to push it to github. Then, you need to again run
 add, commit and then push command.
-git difftool HEAD- to see the changes wrt previous version of file.(very nice command)
+git difftool HEAD- to see the changes wrt previous version of file.(this command is used to see the changes
+before push operation.)
