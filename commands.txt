@@ -6,4 +6,4 @@ git log- will show commit history
 git push- to push the code on github
 Note: every time you modify a file locally on system. and then you want to push it to github. Then, you need to again run
 add, commit and then push command.
-git difftool HEAD- to see the changes wrt previous version of file.
+git difftool HEAD- to see the changes wrt previous version of file.(very nice command)
